@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fishy Finance",
+    "description": "",
+    "home_page_url": "https://fishyfinance.org",
+    "feed_url": "https://fishyfinance.org/feed.json",
+    "user_comment": "",
+    "icon": "https://fishyfinance.org/media/website/Firefly_Gemini-Flash.png",
+    "author": {
+        "name": "Vinit Dave"
+    },
+    "items": [
+    ]
+}

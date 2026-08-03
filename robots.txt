@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fishyfinance.org/sitemap.xml
