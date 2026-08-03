@@ -3,10 +3,34 @@
     <title>Fishy Finance</title>
     <link href="https://fishyfinance.org/feed.xml" rel="self" />
     <link href="https://fishyfinance.org" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-08-04T00:17:30+05:30</updated>
     <author>
         <name>Vinit Dave</name>
     </author>
     <id>https://fishyfinance.org</id>
 
+    <entry>
+        <title>The Anatomy of a Price Pump: Inside SEBI’s Adjudication on Moksh Ornaments</title>
+        <author>
+            <name>Vinit Dave</name>
+        </author>
+        <link href="https://fishyfinance.org/anatomy-of-a-price-pump-sebi-moksh-ornaments/"/>
+        <id>https://fishyfinance.org/anatomy-of-a-price-pump-sebi-moksh-ornaments/</id>
+            <category term="SEBI Adjudication"/>
+            <category term="PFUTP"/>
+            <category term="Market Manipulation"/>
+
+        <updated>2026-08-04T00:11:32+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                     The Anatomy of a Price Pump: Inside SEBI’s Adjudication on Moksh Ornaments Canonical ID: NSE:MOKSH / L36911MH2012PLC233038 --- Executive Summary When retail investors look at sudden stock volume surges, public relations narratives often attribute the movement to organic market discovery or expanding retail interest. However, an examination of regulatory enforcement&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong> The Anatomy of a Price Pump: Inside SEBI’s Adjudication on Moksh Ornaments</strong></p>
+<p>Canonical ID: NSE:MOKSH / L36911MH2012PLC233038<br>---<br>Executive Summary<br>When retail investors look at sudden stock volume surges, public relations narratives often attribute the movement to organic market discovery or expanding retail interest. However, an examination of regulatory enforcement data reveals a starkly different mechanical reality. <br><br>This investigation examines the formal SEBI Adjudication Order regarding <strong>Moksh Ornaments Limited</strong>, mapping how synchronized order matching and single-share lot trades artificially engineered market benchmarks.<br>---<br><strong>1. The Mechanics of the Anomaly (Evidence Ledger Extraction)</strong><br>According to primary trade logs and regulatory findings from Tier-1 filings, the price movement was not driven by spontaneous liquidity, but by specific mechanical triggers:<br><br><strong>Synchronized Order Matching:</strong> SEBI’s investigation uncovered coordinated buy and sell order placements executed concurrently across localized demat accounts. <br><strong>Single-Share Lot Manipulation:</strong> Trading logs confirm the recurrent use of low-volume, single-share trade lots timed to establish upper price band benchmarks ahead of broader retail participation.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
