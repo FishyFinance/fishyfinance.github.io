@@ -3,12 +3,204 @@
     <title>Fishy Finance</title>
     <link href="https://fishyfinance.org/feed.xml" rel="self" />
     <link href="https://fishyfinance.org" />
-    <updated>2026-08-23T14:48:51+05:30</updated>
+    <updated>2026-08-31T21:28:12+05:30</updated>
     <author>
         <name>Vinit Dave</name>
     </author>
     <id>https://fishyfinance.org</id>
 
+    <entry>
+        <title>Inside BWMG’s $173k Accounting Error and 42M-Share Expansion</title>
+        <author>
+            <name>Vinit Dave</name>
+        </author>
+        <link href="https://fishyfinance.org/bwmg-accounting-error-share-expansion/"/>
+        <id>https://fishyfinance.org/bwmg-accounting-error-share-expansion/</id>
+        <media:content url="https://fishyfinance.org/media/posts/7/Untitled-August-31-2026-at-20.58.53.png" medium="image" />
+            <category term="United States"/>
+            <category term="Financial Controls"/>
+            <category term="Dilution"/>
+            <category term="Corporate Governance"/>
+            <category term="Accounting"/>
+
+        <updated>2026-08-30T17:16:06+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://fishyfinance.org/media/posts/7/Untitled-August-31-2026-at-20.58.53.png" alt="" />
+                    One number told investors the business had turned an operating profit. A&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fishyfinance.org/media/posts/7/Untitled-August-31-2026-at-20.58.53.png" class="type:primaryImage" alt="" /></p>
+                <div id="model-response-message-contentr_7a274aa06cb070e6" class="markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color stronger tutor-markdown-rendering" dir="ltr" aria-busy="false" aria-live="polite">
+<div>One number told investors the business had turned an operating profit. A regulatory filing later told them that number could not be trusted. At almost exactly the same time, the company was expanding through tens of millions of newly issued shares. So what happens when a micro-cap’s commercial growth story moves faster than the system keeping its books?</div>
+<br>
+<h2 data-path-to-node="4">The Number That Looked Like a Turnaround</h2>
+<div>On August 4, 2026, Florida-based micro-cap marine equipment company Brownie’s Marine Group, Inc. (BWMG) filed its quarterly earnings report. Three weeks later, on August 24, 2026, the company issued an SEC Form 8-K under Item 4.02.</div>
+<br>
+<div>In SEC terminology, an Item 4.02 disclosure is a "non-reliance" filing—essentially an official red flag notifying the market that previously issued financial statements contain material errors and can no longer be relied upon by investors or analysts.</div>
+<br>
+<div>Management had discovered a fundamental breakdown in its accounting close: internal preparation files for the three-month period ending June 30, 2026, had accidentally pulled financial information from an incorrect reporting year.</div>
+<br>
+<blockquote data-path-to-node="8">
+<div><strong data-path-to-node="8,0" data-index-in-node="0">FishyFinance Lens: What "Non-Reliance" Actually Means</strong></div>
+<br>
+<div>When a company files an Item 4.02 Non-Reliance notice, it isn't just fixing a typo. It is telling banks, regulators, and shareholders that a material reporting error passed through its existing review process and reached a filed financial statement.</div>
+</blockquote>
+<h2 data-path-to-node="10">The Number That Changed the Story</h2>
+<div>When the wrong-year data was corrected, the quarterly operating results flipped from an originally reported operating loss of $151,080 to an operating profit of $22,716—a $173,796 shift.</div>
+<br>
+<div>While the operating line swung into positive territory, overall net income was slashed from $580,542 down to $218,658—a downward adjustment of $361,884. Specifically, operating results moved from -$151,080 originally reported to +$22,716 corrected, and net income moved from +$580,542 originally reported to +$218,658 corrected.</div>
+<br>
+<div>The filing also revealed a secondary accounting oversight: an out-of-period interest adjustment on a related-party loan. Total interest expense had been recorded entirely in 2026, even though the accrual should have started back in 2023. While management concluded the interest error was not material, the combined corrections highlighted a control environment vulnerable to manual period-end close mistakes.</div>
+<br>
+<h2 data-path-to-node="15">While the Filings Were Changing, the Business Was Moving</h2>
+<div>While the reporting error was being uncovered, the company had also been pursuing an aggressive commercial expansion.</div>
+<br>
+<div>Known for surface-supplied air systems like the "Third Lung" and portable hookah diving setups, BWMG spent the first half of 2026 expanding its commercial presence:</div>
+<br>
+<ul data-path-to-node="18">
+<li>
+<div><strong data-path-to-node="18,0,0" data-index-in-node="0">Live Blue Experience Hubs:</strong> Opening regional retail and service locations through its operating subsidiary, Live Blue, Inc., to consolidate sales, rentals, and tours.</div>
+</li>
+<li>
+<div><strong data-path-to-node="18,1,0" data-index-in-node="0">Gear Distribution:</strong> Scaling commercial agreements to market third-party marine gear, including SeaNXT underwater scooters.</div>
+</li>
+<li>
+<div><strong data-path-to-node="18,2,0" data-index-in-node="0">Top-Line Growth:</strong> Reporting top-line revenue gains in its initial H1 2026 disclosures.</div>
+</li>
+</ul>
+<div>Building retail hubs and acquiring competitor assets requires capital. Rather than paying acquisition consideration in cash, the company used its own equity as transaction currency.</div>
+<br>
+<h2 data-path-to-node="21">The First Clue Wasn't the Profit. It Was the 42 Million Shares.</h2>
+<div>On July 1, 2026, BWMG’s subsidiary, Live Blue, Inc., executed an Asset Purchase Agreement to acquire substantially all assets of Sunrise Paddleboards LLC, a Florida business operating paddleboarding rentals, guided tours, retail sales, and training services.</div>
+<br>
+<div>BWMG paid for the physical inventory, rental equipment, digital domains, customer databases, and operating assets entirely with stock.</div>
+<br>
+<div>The consideration was 42,000,000 newly issued common shares.</div>
+<br>
+<h2 data-path-to-node="26">Then the Share Count Became Impossible to Ignore</h2>
+<div>Forty-two million shares sounds large. But large compared with what? The answer sits in the filing.</div>
+<br>
+<div>Prior to the deal, pre-issuance common shares outstanding stood at 510,168,896, alongside 425,000 preferred shares. Adding the 42,000,000 newly issued Sunrise acquisition shares brought the post-issuance total to 552,168,896 common shares—representing an 8.23% common share base expansion.</div>
+<br>
+<div>Adding 42,000,000 new shares to the pre-issuance baseline of 510,168,896 increased the total outstanding common share count to 552,168,896—an 8.23% expansion in share supply.</div>
+<br>
+<div>If voting rights were proportional to common shares, an existing holder who did not participate saw their proportional claim fall by roughly 7.61% (from 100% down to 92.39% of the common equity base).</div>
+<br>
+<blockquote data-path-to-node="31">
+<div><strong data-path-to-node="31,0" data-index-in-node="0">FishyFinance Lens: Why Share Count Matters More Than the Price Chart</strong></div>
+<br>
+<div>When a micro-cap expands by issuing equity instead of spending cash, the share price on your screen might not move immediately. But the underlying math shifts instantly. When a company issues 8% more shares to acquire a business, existing shareholders own a smaller proportional slice of the core company. If the newly acquired assets don't generate enough earnings to offset that dilution, existing shareholders end up holding a smaller claim on a business that hasn't grown fast enough to compensate.</div>
+</blockquote>
+<h2 data-path-to-node="33">Now Follow the 42 Million Shares</h2>
+<div>Once 42 million shares enter a corporate ecosystem, an obvious question arises: Where did they go, and can they be sold into the open market?</div>
+<br>
+<div>The SEC Form 8-K reveals specific structural details:</div>
+<br>
+<ul data-path-to-node="36">
+<li>
+<div><strong data-path-to-node="36,0,0" data-index-in-node="0">The Recipient:</strong> Issued directly to the sole member of Sunrise Paddleboards LLC as consideration for the assets.</div>
+</li>
+<li>
+<div><strong data-path-to-node="36,1,0" data-index-in-node="0">The Regulatory Exemption:</strong> Executed as an unregistered private placement under Section 4(a)(2) of the Securities Act of 1933.</div>
+</li>
+<li>
+<div><strong data-path-to-node="36,2,0" data-index-in-node="0">Resale Restrictions:</strong> Because they were issued via a private placement, these 42 million shares are "restricted securities". They cannot be immediately resold on the open OTC market without an effective registration statement or an applicable exemption (such as SEC Rule 144).</div>
+</li>
+</ul>
+<div>Whether those shares remain restricted, are held long-term by the seller, or eventually become eligible for resale into the public market over time will dictate future stock supply dynamics.</div>
+<br>
+<h2 data-path-to-node="39">The Stated Acquisition Price Raises Another Question</h2>
+<div>In the Form 8-K, BWMG disclosed that the 42 million shares were issued at a reference price of $0.0044 per share, matching the closing price on June 30, 2026.</div>
+<div data-path-to-node="41">
+<div class="math-block" data-math="\text{Stated Share Consideration} = 42,000,000 \times \$0.0044 = \$184,800">
+<div data-math="\text{Stated Share Consideration} = 42,000,000 \times \$0.0044 = \$184,800"> </div>
+<div class="math-block" data-math="\text{Stated Share Consideration} = 42,000,000 \times \$0.0044 = \$184,800">Stated Share Consideration = 42,000,000 * $0.0044 = $184,800</div>
+</div>
+</div>
+<div>At $0.0044 per share, the 42 million shares correspond to $184,800 of stated share consideration.</div>
+<br>
+<div>That figure is the contractual share consideration calculated from the reference market price. It should not automatically be treated as an independent appraisal of every acquired asset. The eventual accounting treatment, fair-value allocation, and intangible asset placement will be reflected in subsequent financial reporting.</div>
+<br>
+<h2 data-path-to-node="45">The Wrong-Year Filing Had a Longer Backstory</h2>
+<div>The data error in the Q2 2026 filing did not occur in isolation; it sits atop a documented pattern of internal control disclosures:</div>
+<br>
+<ul data-path-to-node="47">
+<li>
+<div><strong data-path-to-node="47,0,0" data-index-in-node="0">Prior Audits:</strong> Independent auditor Bush &amp; Associates CPA noted going-concern risks regarding working capital needs.</div>
+</li>
+<li>
+<div><strong data-path-to-node="47,1,0" data-index-in-node="0">Historical Control Disclosures:</strong> Filings disclose ongoing material weaknesses in Internal Control Over Financial Reporting (ICFR).</div>
+</li>
+<li>
+<div><strong data-path-to-node="47,2,0" data-index-in-node="0">July 01, 2026:</strong> Live Blue acquires Sunrise Paddleboards for 42M shares.</div>
+</li>
+<li>
+<div><strong data-path-to-node="47,3,0" data-index-in-node="0">August 04, 2026:</strong> Form 10-Q filed with Q2 numbers.</div>
+</li>
+<li>
+<div><strong data-path-to-node="47,4,0" data-index-in-node="0">August 24, 2026:</strong> Form 8-K Item 4.02 non-reliance notice filed; prior Q2 numbers pulled due to wrong-year close data.</div>
+</li>
+</ul>
+<div>Internal Control Over Financial Reporting (ICFR) is a company's internal system for ensuring financial statements are complete and accurate. A "material weakness" means the controls have a deficiency significant enough that there is a reasonable possibility a material error will go undetected.</div>
+<br>
+<div>In prior SEC disclosures, BWMG management acknowledged material weaknesses in its ICFR, citing small accounting staff size and reliance on manual reconciliations during period-end closes. Independent auditor Bush &amp; Associates, CPA, also included standard going-concern language regarding operating cash needs.</div>
+<br>
+<div>When a business accelerates deal-making and share issuances while maintaining minimal reporting infrastructure, the risk of period-end accounting errors increases.</div>
+<br>
+<h2 data-path-to-node="52">Three Questions the Filings Still Don't Answer</h2>
+<div>Following the evidence reveals three remaining unanswered questions:</div>
+<br>
+<h3 data-path-to-node="54">1. What happens to the 42 million shares?</h3>
+<ul data-path-to-node="55">
+<li>
+<div><strong data-path-to-node="55,0,0" data-index-in-node="0">What We Know:</strong> 42,000,000 common shares were issued to the seller of Sunrise Paddleboards as restricted stock under Section 4(a)(2).</div>
+</li>
+<li>
+<div><strong data-path-to-node="55,1,0" data-index-in-node="0">What We Don't Know:</strong> Whether the recipient intends to hold these shares long-term or whether secondary registration will be sought in the future.</div>
+</li>
+</ul>
+<h3 data-path-to-node="56">2. What are the acquired Sunrise assets actually worth on the balance sheet?</h3>
+<ul data-path-to-node="57">
+<li>
+<div><strong data-path-to-node="57,0,0" data-index-in-node="0">What We Know:</strong> The transaction agreement reflects a contractual baseline consideration of $184,800.</div>
+</li>
+<li>
+<div><strong data-path-to-node="57,1,0" data-index-in-node="0">What We Don't Know:</strong> How independent auditors will appraise and allocate those physical assets, equipment, and goodwill in upcoming audited reports.</div>
+</li>
+</ul>
+<h3 data-path-to-node="58">3. When will the financial reporting controls be fixed?</h3>
+<ul data-path-to-node="59">
+<li>
+<div><strong data-path-to-node="59,0,0" data-index-in-node="0">What We Know:</strong> BWMG acknowledged that control weaknesses in period-end close procedures contributed to the error.</div>
+</li>
+<li>
+<div><strong data-path-to-node="59,1,0" data-index-in-node="0">What We Don't Know:</strong> The exact remediation timeline and capital required to automate its period-end reconciliation process.</div>
+</li>
+</ul>
+<h2 data-path-to-node="61">Three Stories. One Company.</h2>
+<div>Evaluating a micro-cap company requires looking at three distinct operational layers at the same time:</div>
+<br>
+<ol start="1" data-path-to-node="63">
+<li>
+<div><strong data-path-to-node="63,0,0" data-index-in-node="0">The Commercial Story:</strong> Management is expanding operations, launching experience hubs, and acquiring new assets.</div>
+</li>
+<li>
+<div><strong data-path-to-node="63,1,0" data-index-in-node="0">The Capital Story:</strong> The company is using its equity as transaction currency, issuing millions of shares and expanding the equity base.</div>
+</li>
+<li>
+<div><strong data-path-to-node="63,2,0" data-index-in-node="0">The Infrastructure Story:</strong> The accounting close process allowed a prior year's dataset to populate a live SEC filing.</div>
+</li>
+</ol>
+<div>None of these facts, by themselves, prove intentional wrongdoing. Together, however, they reveal a clear lesson: growth isn't just about what a company acquires—it is also about whether the financial machinery behind that growth is capable of measuring it accurately.</div>
+<br>
+<div>Before believing the next headline number, follow the filing. Then follow the shares.</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The 8-Day Magic Trick: How ₹25 Crore Created a ₹5,000 Crore Corporate Illusion</title>
         <author>
