@@ -3,119 +3,129 @@
     <title>Fishy Finance</title>
     <link href="https://fishyfinance.org/feed.xml" rel="self" />
     <link href="https://fishyfinance.org" />
-    <updated>2026-09-04T18:59:52+05:30</updated>
+    <updated>2026-09-06T03:56:50+05:30</updated>
     <author>
         <name>Vinit Dave</name>
     </author>
     <id>https://fishyfinance.org</id>
 
     <entry>
-        <title>The Ghost Audit: How Northann Corp. Filed an Unauthorized 10-K and Got Suspended by the NYSE</title>
+        <title>Northann Filed an Audit Opinion Its Auditor Says It Never Authorized</title>
         <author>
             <name>Vinit Dave</name>
         </author>
         <link href="https://fishyfinance.org/northann-corp-ghost-audit-nyse-delisting/"/>
         <id>https://fishyfinance.org/northann-corp-ghost-audit-nyse-delisting/</id>
+        <media:content url="https://fishyfinance.org/media/posts/8/Northann-Corp-Hero-Banner.png" medium="image" />
 
         <updated>2026-09-04T18:39:29+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    When an independent accounting firm told the SEC it never signed Northann’s annual report, it sparked an exchange suspension, executive departures, and an OTC transition—leaving public shareholders sitting behind $24 million in founder-held debt. On April 14, 2026, Northann Corp. submitted its annual Form 10-K to the U.S. Securities and&hellip;
+                        <img src="https://fishyfinance.org/media/posts/8/Northann-Corp-Hero-Banner.png" alt="" />
+                    Northann Corp.'s annual report contained something investors normally take for granted: an auditor's opinion. The auditor later said it had never authorized it. Northann filed its FY2025 Form 10-K with the SEC on April 14, 2026. The filing presented financial statements accompanied by an audit report attributed to LAO Professionals.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <blockquote>
-<p class="msg--highlight"><code><strong>When an independent accounting firm told the SEC it never signed Northann’s annual report, it sparked an exchange suspension, executive departures, and an OTC transition—leaving public shareholders sitting behind $24 million in founder-held debt.</strong></code></p>
-</blockquote>
-<p> </p>
-<h3><strong>1. The Filing That Wasn't</strong></h3>
-<p><span style="font-weight: 400;">On April 14, 2026, Northann Corp. submitted its annual Form 10-K to the U.S. Securities and Exchange Commission. On paper, everything appeared orderly. The 3D-printed flooring manufacturer had published its full-year financial statements for 2025, complete with an audit report bearing the signature of its independent auditor, LAO Professionals. For public market investors scanning EDGAR, the box was ticked.</span></p>
-<p><span style="font-weight: 400;">Then came June.</span></p>
-<p><span style="font-weight: 400;">In a formal disclosure that sent shockwaves through the exchange, LAO Professionals resigned and delivered a stark letter directly to the SEC. The accounting firm’s message was simple: it had never completed the FY2025 audit, had never prepared or signed the audit opinion, and had never consented to the use of its name in Northann’s annual filing.</span></p>
-<p><span style="font-weight: 400;">Even more bizarre was the auditor's description of how audit procedures had broken down. According to LAO Professionals, management repeatedly attempted to satisfy documentation requests by providing cloud storage file links that were broken or completely inaccessible.</span></p>
-<p><span style="font-weight: 400;">When an independent auditor informs federal regulators that a public company filed an annual report using its disavowed signature, routine financial reporting turns into an emergency corporate governance event.</span></p>
-<p> </p>
-<blockquote>
-<p><span style="font-weight: 400;">🐟 </span><strong>Fishy Insight: What is an Auditor Consent (and why does Exhibit 23 matter)?</strong></p>
-<p><span style="font-weight: 400;">Before a public company can attach an independent auditor’s report to an SEC filing, federal law requires the accounting firm to issue a formal document called an </span><strong>Auditor Consent</strong><span style="font-weight: 400;"> (typically filed as Exhibit 23).</span></p>
-<p><span style="font-weight: 400;">Think of it like publishing a book with a co-author's name on the cover. You cannot simply drop their name onto the title page because they sent you a rough draft six months ago; they must sign a legal release stating, </span><i><span style="font-weight: 400;">"We have read the final version, we agree with the numbers, and you have our permission to print it."</span></i></p>
-<p><span style="font-weight: 400;">When a company files an Annual Report without an authorized consent, the filing is legally incomplete. If the auditor later informs regulators that it never signed the report at all, the financial statements instantly lose their verified status in the eyes of the market.</span></p>
-</blockquote>
-<p> </p>
-<h3><strong>2. The Regulatory Chain Reaction</strong></h3>
-<p><span style="font-weight: 400;">Market regulators do not move gently when financial statement integrity vanishes. The disavowal set off a rapid sequence of market actions.</span></p>
-<p><span style="font-weight: 400;">On June 25, 2026, NYSE American halted trading in Northann Corp.’s common stock. Two months later, on August 21, 2026, NYSE Regulation formally initiated delisting proceedings, citing the auditor dispute and the absence of reliable audited financial statements.</span></p>
-<p><span style="font-weight: 400;">Inside Northann’s boardroom, executive exits followed quickly. Founder and CEO Lin Li stepped down from his operational executive role, while Audit Committee Chair Umesh Patel resigned.</span></p>
-<p><span style="font-weight: 400;">By August 10, 2026, Northann filed a Form 8-K declaring Item 4.02 Non-Reliance. The company officially warned investors that its financial statements for FY2024 and FY2025 could no longer be trusted. The stock was stripped of its national exchange listing and pushed to the OTC Markets under the ticker </span><strong>NCLX</strong><span style="font-weight: 400;">.</span></p>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://fishyfinance.org/media/posts/8/Image-1-Blog.png" alt="" width="1598" height="656" sizes="(max-width: 48em) 100vw, 768px" srcset="https://fishyfinance.org/media/posts/8/responsive/Image-1-Blog-xs.png 300w ,https://fishyfinance.org/media/posts/8/responsive/Image-1-Blog-sm.png 480w ,https://fishyfinance.org/media/posts/8/responsive/Image-1-Blog-md.png 768w"></figure>
-<h3><strong>3. Paper Equity for Intangible Code</strong></h3>
-<p><span style="font-weight: 400;">While internal accounting controls were breaking down, Northann’s corporate dealmakers were actively issuing equity.</span></p>
-<p><span style="font-weight: 400;">Between late 2025 and early 2026, Northann executed two share-based asset acquisitions:</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Kingsford Consultancy:</strong><span style="font-weight: 400;"> Northann agreed to issue </span><strong>12.5 million Class A common shares</strong><span style="font-weight: 400;"> to acquire supply-chain software platform assets valued at </span><strong>$5.0 million</strong><span style="font-weight: 400;">.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Asia Resource Holdings:</strong><span style="font-weight: 400;"> Northann agreed to issue </span><strong>15.0 million Class A common shares</strong><span style="font-weight: 400;"> for an AI-powered design platform valued at </span><strong>$6.0 million</strong><span style="font-weight: 400;">.</span></li>
-</ul>
-<p><span style="font-weight: 400;">In total, Northann minted </span><strong>27.5 million new common shares</strong><span style="font-weight: 400;"> to purchase </span><strong>$11.0 million</strong><span style="font-weight: 400;"> worth of intangible software assets.</span></p>
-<p><span style="font-weight: 400;">Minting millions of stock shares to acquire intangible software code while an auditor is struggling to access basic accounting records creates a sharp contrast. While new paper equity was distributed for software acquisitions, a much firmer financial obligation sat right at the top of Northann’s balance sheet.</span></p>
-<p> </p>
-<h3><strong>4. Follow the Debt: The $24 Million Insider Lien</strong></h3>
-<p><span style="font-weight: 400;">To understand who holds true financial leverage in a micro-cap corporate breakdown, you have to look past the common stock and follow the debt hierarchy.</span></p>
-<p><span style="font-weight: 400;">According to Northann’s FY2025 10-K disclosures, its primary operating subsidiary—3D Printing Dev LLC—carries a </span><strong>$24.0 million senior promissory note</strong><span style="font-weight: 400;">. The lender is not a commercial bank or an arm's-length institutional creditor.</span></p>
-<p><span style="font-weight: 400;">The loan is owed directly to </span><strong>3DFLOR Opportunity LP</strong><span style="font-weight: 400;">—an entity controlled by Northann’s founder and former CEO, Lin Li.</span></p>
-<p> </p>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://fishyfinance.org/media/posts/8/Visual-2-Blog.png" alt="" width="1314" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://fishyfinance.org/media/posts/8/responsive/Visual-2-Blog-xs.png 300w ,https://fishyfinance.org/media/posts/8/responsive/Visual-2-Blog-sm.png 480w ,https://fishyfinance.org/media/posts/8/responsive/Visual-2-Blog-md.png 768w"></figure>
-<p><span style="font-weight: 400;">This debt structure establishes a clear hierarchy of priorities:</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If Northann’s software acquisitions generate long-term commercial value, the equity value accrues across the entire share base.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If operational or financial distress triggers a restructuring or liquidation, 3DFLOR Opportunity LP sits as a senior secured creditor against the operating subsidiary.</span></li>
-</ul>
-<p><span style="font-weight: 400;">In any downside scenario, the founder's debt obligation ranks ahead of public common shareholders trading on the OTC markets.</span></p>
-<p> </p>
-<p><span style="font-weight: 400;">🐟 </span><strong>FishyFinance Lens: The Capital Structure Asymmetry</strong></p>
-<blockquote>
-<p><span style="font-weight: 400;">When analyzing micro-cap corporate dislocations, the central question is rarely just </span><i><span style="font-weight: 400;">"Why did the stock drop?"</span></i></p>
-<p><span style="font-weight: 400;">It is: </span><strong>Who holds the floor, and who carries the downside?</strong></p>
-<p><span style="font-weight: 400;">Look at how the risk was distributed inside Northann:</span></p>
-<ol>
-<li style="font-weight: 400;" aria-level="1"><strong>The Software Vendors</strong><span style="font-weight: 400;"> received 27.5 million freshly minted common shares in exchange for intangible IP.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Public Retail Investors</strong><span style="font-weight: 400;"> bought common stock on an exchange, assuming the financial statements were independently verified.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>The Founder</strong><span style="font-weight: 400;"> holds a $24.0 million senior note against the operating sub.</span></li>
-</ol>
-<p><span style="font-weight: 400;">If the company thrives, everyone benefits. But if the corporate structure fractures, common shareholders absorb the immediate equity hit, while the founder's senior loan retains its claim on the physical operating assets.</span></p>
-</blockquote>
-<p> </p>
-<h3><strong>5. The Governance Void &amp; The Remedial Pivot</strong></h3>
-<p><span style="font-weight: 400;">As if an unissued audit opinion and delisting notice were not enough, subsequent 8-K exhibits revealed another governance gap.</span></p>
-<p><span style="font-weight: 400;">In exhibits attached to its June 2026 filings, Northann disclosed that the company </span><strong>lacked committed Directors &amp; Officers (D&amp;O) liability insurance coverage</strong><span style="font-weight: 400;"> during the period. D&amp;O insurance protects board members and executives from personal financial liability in shareholder lawsuits or regulatory actions. Operating a public company without active D&amp;O coverage often coincides with severe boardroom friction.</span></p>
-<p><span style="font-weight: 400;">In response to the crisis, Northann’s remaining board members launched a restructuring effort:</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Special Oversight Committee:</strong><span style="font-weight: 400;"> Formed an independent board committee to oversee an internal investigation into the reporting breakdown.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Independent Legal Counsel:</strong><span style="font-weight: 400;"> Retained national law firm </span><strong>Lewis Brisbois Bisgaard &amp; Smith LLP</strong><span style="font-weight: 400;"> to guide the governance review.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Replacement Auditor:</strong><span style="font-weight: 400;"> Engaged PCAOB-registered firm </span><strong>TQ International, PLLC</strong><span style="font-weight: 400;"> on August 26, 2026, to re-audit FY2024 and FY2025 financial statements and review 2026 interims.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Exchange Appeal:</strong><span style="font-weight: 400;"> Requested an oral hearing before the NYSE Listings Qualifications Panel to contest the delisting determination.</span></li>
-</ul>
-<h3><strong>6. What We Know vs. What We Don't Know</strong></h3>
-<p><span style="font-weight: 400;">In complex corporate breakdowns, it is essential to draw a firm line between documented evidence and open questions.</span></p>
-<p><strong>What We Know:</strong></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">LAO Professionals formally stated to the SEC that it did not sign, authorize, or consent to the FY2025 audit opinion.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Management provided cloud storage file links that the auditor reported were broken and inaccessible.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">NYSE American halted trading and initiated formal delisting proceedings.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Northann declared non-reliance on its financial statements and appointed TQ International, PLLC to conduct a complete re-audit.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Founder Lin Li’s affiliate holds a $24.0 million senior note against Northann's operating subsidiary.</span></li>
-</ul>
-<p><strong>What We Don't Know:</strong></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>The Upload Origin:</strong><span style="font-weight: 400;"> SEC filings do not currently establish who generated or attached the unauthorized audit signature to the original Form 10-K submission.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>The Financial Impact:</strong><span style="font-weight: 400;"> Neither Northann nor TQ International has issued restated balance sheets yet, leaving the true financial numbers unknown.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>The Software Fair Value:</strong><span style="font-weight: 400;"> It remains unverified whether the $11.0 million in software acquired from Kingsford and Asia Resource will retain its recorded asset values following the re-audit.</span></li>
-</ul>
-<h3><strong>7. Why It Matters</strong></h3>
-<p><span style="font-weight: 400;">The Northann Corp. case provides a stark lesson for public market investors.</span></p>
-<p><span style="font-weight: 400;">Flashy press releases announcing AI software acquisitions, supply-chain modernization, and strategic expansion mean very little if the financial plumbing underneath is disconnected.</span></p>
-<p><span style="font-weight: 400;">When evaluating micro-cap companies, checking for routine auditor consent exhibits (Exhibit 23) and examining related-party debt notes is just as important as reading headlines. When auditor consensus breaks down, corporate announcements stop mattering, and the capital structure takes over.</span></p>
-<p> </p>
+                    <p><img src="https://fishyfinance.org/media/posts/8/Northann-Corp-Hero-Banner.png" class="type:primaryImage" alt="" /></p>
+                <div class="stage-layout flex h-svh w-screen flex-col pt-[env(safe-area-inset-top,0px)]">
+<div class="relative z-0 flex min-h-0 w-full flex-1">
+<div class="relative flex min-h-0 w-full min-w-0 flex-1">
+<div class="group/side-pane-shell-host relative flex min-h-0 min-w-0 flex-1 has-[[data-side-pane-shell-transition]]:overflow-x-clip" data-side-pane-shell-host="true">
+<div class="@container/main relative flex min-w-0 flex-1 flex-col -translate-y-[calc(env(safe-area-inset-bottom,0px)/2)] pt-[calc(env(safe-area-inset-bottom,0px)/2)]">
+<div class="@w-sm/main:[scrollbar-gutter:var(--stage-scroll-gutter)] touch:[scrollbar-width:none] group/scroll-root relative flex min-h-0 min-w-0 flex-1 flex-col [scrollbar-gutter:stable] not-print:overflow-x-clip not-print:overflow-y-auto group-data-stream-active/scroll-root:[overflow-anchor:none] not-print:data-expanded-composer:overflow-y-hidden! not-print:data-voice-focus-mode:overflow-y-hidden! scroll-pt-(--header-height) [--sticky-padding-top:var(--header-height)] [--sticky-padding-bottom:0px] [--scroll-root-safe-area-inset-top:calc(var(--sticky-padding-top)+env(safe-area-inset-top,0px))] [--scroll-root-safe-area-inset-bottom:calc(var(--sticky-padding-bottom)+var(--screen-keyboard-height,0px)+env(safe-area-inset-bottom,0px))] [--scroll-root-safe-area-height:calc(100lvh-var(--scroll-root-safe-area-inset-top)-var(--scroll-root-safe-area-inset-bottom))] has-data-[fixed-header=less-than-md]:md:scroll-pt-0 has-data-[fixed-header=less-than-md]:md:[--sticky-padding-top:0px] has-data-[fixed-header=never]:scroll-pt-0 has-data-[fixed-header=never]:[--sticky-padding-top:0px] has-data-[fixed-header=less-than-xl]:@w-xl/main:scroll-pt-0 has-data-[fixed-header=less-than-xl]:@w-xl/main:[--sticky-padding-top:0px] has-data-[fixed-header=less-than-xxl]:@w-2xl/main:scroll-pt-0 has-data-[fixed-header=less-than-xxl]:@w-2xl/main:[--sticky-padding-top:0px] group-data-[side-pane-shell-open]/side-pane-shell-host:[scrollbar-width:none] group-data-[side-pane-shell-open]/side-pane-shell-host:[&amp;::-webkit-scrollbar]:hidden" data-scroll-root="" data-scroll-from-top="" data-scroll-from-end="">
+<div class="contents"><main id="main" class="not-keyboard-focused:outline-none min-h-0 flex-1" tabindex="-1">
+<div class="contents" role="presentation">
+<div id="thread" class="group/thread flex flex-col min-h-full">
+<div class="composer-parent flex flex-1 flex-col focus-visible:outline-0">
+<div class="relative basis-auto flex-col -mb-(--composer-overlap-px) pb-(--composer-overlap-px) [--composer-overlap-px:28px] grow flex">
+<div class="flex min-h-0 grow flex-col text-sm">
+<div class="qMYqUG_convSearchResultHighlightRoot">
+<div class="" data-turn-id-container="request-WEB:d5a9fa43-ae0c-4787-b6f7-bfc51493f297-101" data-is-intersecting="true">
+<section class="text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" data-turn-id="request-WEB:d5a9fa43-ae0c-4787-b6f7-bfc51493f297-101" data-turn-id-container="request-WEB:d5a9fa43-ae0c-4787-b6f7-bfc51493f297-101" data-testid="conversation-turn-24" data-turn="assistant">
+<div class="text-base my-auto mx-auto pb-8 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" data-conversation-screenshot-content="">
+<div class="flex max-w-full flex-col gap-4 grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1" dir="auto" tabindex="0" data-message-author-role="assistant" data-message-id="01743bdc-907e-49ca-85ab-2972220623f9" data-message-model-slug="gpt-5-6" data-turn-start-message="true">
+<div class="flex w-full flex-col gap-1 empty:hidden">
+<div class="markdown prose dark:prose-invert wrap-break-word w-full dark markdown-new-styling">
+<h2 data-start="736" data-end="845">Northann Corp.'s annual report contained something investors normally take for granted: an auditor's opinion.</h2>
+<p data-start="847" data-end="897">The auditor later said it had never authorized it.</p>
+<p data-start="899" data-end="1072">Northann filed its FY2025 Form 10-K with the SEC on April 14, 2026. The filing presented financial statements accompanied by an audit report attributed to LAO Professionals.</p>
+<p data-start="1074" data-end="1146">Later, the accounting firm said the document did not represent its work.</p>
+<p data-start="1148" data-end="1413">In a letter filed with the SEC, LAO said it had resigned on June 8 because its name and audit opinion had been used without authorization. The firm said it had not prepared, issued, signed, authorized or consented to the audit opinion included in Northann's filing.</p>
+<p data-start="1415" data-end="1518">That creates a question more basic than whether one particular number in Northann's accounts was wrong:</p>
+<p data-start="1520" data-end="1646"><strong data-start="1520" data-end="1646">How did an audit opinion attributed to an accounting firm enter a public filing when the firm says it never authorized it?</strong></p>
+<p data-start="1648" data-end="1700">The answer is not established by the current record. But the consequences are.</p>
+<h2 data-section-id="dqvhjc" data-start="1729" data-end="1764">The audit had not been completed</h2>
+<p data-start="1766" data-end="1810">LAO's later filing adds an important detail.</p>
+<p data-start="1812" data-end="2138">The firm said it had not obtained sufficient appropriate audit evidence to complete the audit or issue an opinion. According to LAO, it repeatedly requested documents needed to perform its procedures. LAO said Northann provided inaccessible links and declined requests to send certain large document sets as email attachments.</p>
+<p data-start="2140" data-end="2300">This was not a case of an auditor completing its work and later discovering an error in the accounts. According to LAO, the audit itself had not been completed.</p>
+<p data-start="2302" data-end="2569">Northann subsequently disclosed that LAO had not identified specific financial-statement items as incorrect. But because of LAO's statements about the audit report, Northann told investors not to rely on its FY2024 and FY2025 financial statements pending a new audit.</p>
+<p data-start="2571" data-end="2795">The distinction matters: the current evidence establishes a dispute over the audit process and authorization of the report. It does <strong data-start="2703" data-end="2710">not</strong>, by itself, establish that every number in Northann's financial statements is false.</p>
+<h2 data-section-id="13yrfzc" data-start="2797" data-end="2831">The numbers are now provisional</h2>
+<p data-start="2833" data-end="2945">The FY2025 10-K reported $13.6 million of revenue, $3.58 million of gross profit and an $11.67 million net loss.</p>
+<p data-start="2947" data-end="3083">It also reported approximately $1.03 million of cash at year-end and $5.68 million of cash used in operating activities during the year.</p>
+<p data-start="3085" data-end="3162">Those figures show what investors were presented with in the disputed filing.</p>
+<p data-start="3164" data-end="3228">They should not, however, be treated as final financial reality.</p>
+<p data-start="3230" data-end="3341">Northann itself has said the FY2024 and FY2025 financial statements should not be relied upon pending re-audit.</p>
+<p data-start="3343" data-end="3513">So the numbers occupy an unusual position: they remain part of the documentary record, but the company has withdrawn reliance on them while the accounting work is redone.</p>
+<h2 data-section-id="ej4ot2" data-start="3515" data-end="3565">Then there is the $11 million software question</h2>
+<p data-start="3567" data-end="3667">The reporting problem becomes more consequential when viewed alongside Northann's capital structure.</p>
+<p data-start="3669" data-end="3862">In November 2025, Northann agreed to acquire proprietary supply-chain software and intellectual property from Kingsford Consultancy for $5 million, payable through 12.5 million Northann shares.</p>
+<p data-start="3864" data-end="4010">It separately agreed to pay $6 million in shares for software and intellectual property under a development agreement with Asia Resource Holdings.</p>
+<p data-start="4012" data-end="4053">Together, those transactions represented:</p>
+<p data-start="4055" data-end="4094"><strong data-start="4055" data-end="4094">$11 million of stated consideration </strong>for <strong data-start="4101" data-end="4125">27.5 million shares.</strong></p>
+<p data-start="4127" data-end="4207">At December 31, 2025, Northann reported 22.93 million common shares outstanding.</p>
+<p data-start="4209" data-end="4331">The subsequent issuance of 27.5 million shares was therefore approximately <strong data-start="4284" data-end="4330">120% of the company's year-end share count</strong>.</p>
+<p data-start="4333" data-end="4406">That calculation does not establish that either transaction was improper.</p>
+<p data-start="4408" data-end="4487">It shows why the accounting treatment and valuation of the transactions matter.</p>
+<p data-start="4489" data-end="4776">The software transactions were large relative to Northann's existing equity base. If the financial statements describing them need to be re-audited, the consequences extend beyond an accounting footnote. They can affect how investors understand the company's assets, equity and dilution.</p>
+<h2 data-section-id="14ikm56" data-start="4778" data-end="4826">The reporting problem became a market problem</h2>
+<p data-start="4828" data-end="4899">The consequences did not remain inside Northann's financial statements.</p>
+<p data-start="4901" data-end="4953">Trading in Northann's securities was halted in June.</p>
+<p data-start="4955" data-end="5148">The company formed an Oversight Committee and retained outside counsel after the audit dispute emerged. Lin Li, who had held senior executive and board positions, subsequently left the company.</p>
+<p data-start="5150" data-end="5364">In August, Northann disclosed that NYSE American had commenced delisting proceedings, determining that the company was not suitable for continued listing under several provisions of the NYSE American Company Guide.</p>
+<p data-start="5366" data-end="5437">The company has requested an oral hearing to review that determination.</p>
+<p data-start="5439" data-end="5494">None of those events, by themselves, establishes fraud.</p>
+<p data-start="5496" data-end="5680">They show something narrower: a dispute over the integrity and completion of the company's financial reporting process developed into a broader governance, trading and listing problem.</p>
+<h2 data-section-id="q3eo3v" data-start="5682" data-end="5729">A new auditor now has to rebuild the picture</h2>
+<p data-start="5731" data-end="5858">On August 26, Northann's Audit Committee appointed TQ International, PLLC as its independent registered public accounting firm.</p>
+<p data-start="5860" data-end="5988">TQ is expected to audit the FY2025 financial statements and review interim financial information for March 31 and June 30, 2026.</p>
+<p data-start="5990" data-end="6017">That work now has two jobs.</p>
+<p data-start="6019" data-end="6119">The first is straightforward: determine what the company's financial statements should actually say.</p>
+<p data-start="6121" data-end="6179">The second is less straightforward and remains unanswered:</p>
+<p data-start="6181" data-end="6275"><strong data-start="6181" data-end="6275">What happened to the audit opinion attributed to LAO that appeared in the original filing?</strong></p>
+<p data-start="6277" data-end="6340">The documentary record currently establishes the contradiction.</p>
+<p data-start="6342" data-end="6420">Northann filed an annual report containing an audit opinion attributed to LAO.</p>
+<p data-start="6422" data-end="6516">LAO later said it had not prepared or authorized that opinion and had not completed the audit.</p>
+<p data-start="6518" data-end="6643">Northann subsequently told investors not to rely on the financial statements while a replacement auditor undertakes the work.</p>
+<p data-start="6645" data-end="6877">What the current record does <strong data-start="6674" data-end="6681">not</strong> establish is who caused the disputed audit material to appear in the filing, whether anyone acted intentionally, or whether the underlying financial statements contain material accounting errors.</p>
+<p data-start="6879" data-end="6944">Those are separate questions, and they require separate evidence.</p>
+<p data-start="6946" data-end="7012">For now, the most important document may be the next audit itself.</p>
+<p data-start="7014" data-end="7179">Not because it will necessarily explain how the disputed opinion entered the filing, but because it should begin answering the more immediate question for investors:</p>
+<p data-start="7181" data-end="7271" data-is-last-node="" data-is-only-node=""><strong data-start="7181" data-end="7271" data-is-last-node="">What, if anything, in Northann's reported financial position can still be relied upon?</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
