@@ -3,7 +3,7 @@
     <title>Fishy Finance</title>
     <link href="https://fishyfinance.org/feed.xml" rel="self" />
     <link href="https://fishyfinance.org" />
-    <updated>2026-09-14T19:49:07+05:30</updated>
+    <updated>2026-09-15T20:35:45+05:30</updated>
     <author>
         <name>Vinit Dave</name>
     </author>
@@ -969,6 +969,30 @@
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Plug Power Inc. Investor Relations — Q2 2026 Earnings Release and Press Releases — August 10, 2026 — </span><a href="https://www.plugpower.com/press_releases/"><span style="font-weight: 400;">Plug Power Press Releases</span></a><span style="font-weight: 400;"> (Used for revenue figures, gross margin context, and liquidity updates).</span></li>
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">TradingView — </span><i><span style="font-weight: 400;">Plug Power reports Q2 2026 revenue $178.3M...</span></i><span style="font-weight: 400;"> — August 10, 2026 — </span><a href="https://www.tradingview.com/news/tradingview:953a560d18585:0"><span style="font-weight: 400;">TradingView News</span></a><span style="font-weight: 400;"> (Secondary coverage of Q2 revenue and EPS data).</span></li>
 </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Anatomy of a Price Pump: Inside SEBI’s Adjudication on Moksh Ornaments</title>
+        <author>
+            <name>Vinit Dave</name>
+        </author>
+        <link href="https://fishyfinance.org/anatomy-of-a-price-pump-sebi-moksh-ornaments/"/>
+        <id>https://fishyfinance.org/anatomy-of-a-price-pump-sebi-moksh-ornaments/</id>
+            <category term="SEBI Adjudication"/>
+            <category term="Market Manipulation"/>
+            <category term="Indian Markets"/>
+
+        <updated>2026-08-04T00:11:32+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                     The Anatomy of a Price Pump: Inside SEBI’s Adjudication on Moksh Ornaments Canonical ID: NSE:MOKSH / L36911MH2012PLC233038 --- Executive Summary When retail investors look at sudden stock volume surges, public relations narratives often attribute the movement to organic market discovery or expanding retail interest. However, an examination of regulatory enforcement&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong> The Anatomy of a Price Pump: Inside SEBI’s Adjudication on Moksh Ornaments</strong></p>
+<p>Canonical ID: NSE:MOKSH / L36911MH2012PLC233038<br>---<br>Executive Summary<br>When retail investors look at sudden stock volume surges, public relations narratives often attribute the movement to organic market discovery or expanding retail interest. However, an examination of regulatory enforcement data reveals a starkly different mechanical reality. <br><br>This investigation examines the formal SEBI Adjudication Order regarding <strong>Moksh Ornaments Limited</strong>, mapping how synchronized order matching and single-share lot trades artificially engineered market benchmarks.<br>---<br><strong>1. The Mechanics of the Anomaly (Evidence Ledger Extraction)</strong><br>According to primary trade logs and regulatory findings from Tier-1 filings, the price movement was not driven by spontaneous liquidity, but by specific mechanical triggers:<br><br><strong>Synchronized Order Matching:</strong> SEBI’s investigation uncovered coordinated buy and sell order placements executed concurrently across localized demat accounts. <br><strong>Single-Share Lot Manipulation:</strong> Trading logs confirm the recurrent use of low-volume, single-share trade lots timed to establish upper price band benchmarks ahead of broader retail participation.</p>
             ]]>
         </content>
     </entry>
