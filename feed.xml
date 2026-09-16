@@ -3,7 +3,7 @@
     <title>Fishy Finance</title>
     <link href="https://fishyfinance.org/feed.xml" rel="self" />
     <link href="https://fishyfinance.org" />
-    <updated>2026-09-17T00:00:16+05:30</updated>
+    <updated>2026-09-17T00:18:10+05:30</updated>
     <author>
         <name>Vinit Dave</name>
     </author>
@@ -14,12 +14,17 @@
         <author>
             <name>Vinit Dave</name>
         </author>
-        <link href="https://fishyfinance.org/the-ai-trade-had-a-second-side-inside-the-rise-and-unwind-of-situational-awareness/"/>
-        <id>https://fishyfinance.org/the-ai-trade-had-a-second-side-inside-the-rise-and-unwind-of-situational-awareness/</id>
+        <link href="https://fishyfinance.org/salp-ai-capital-stack-unwind/"/>
+        <id>https://fishyfinance.org/salp-ai-capital-stack-unwind/</id>
+        <media:content url="https://fishyfinance.org/media/posts/10/Situational-Awareness-Hero-Banner.png" medium="image" />
+            <category term="US Markets"/>
+            <category term="Market Structure"/>
+            <category term="Capital Structure"/>
 
         <updated>2026-09-16T23:10:12+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://fishyfinance.org/media/posts/10/Situational-Awareness-Hero-Banner.png" alt="Inside the Rise and unwind of Situational Awareness" />
                     <p><i><span style="font-weight: 400;">How a young AI-focused fund built a multibillion-dollar portfolio around the infrastructure boom — and what became visible when the trade had to unwind.</span></i></p>
 <p><span style="font-weight: 400;">In July 2026, Citadel began buying a portfolio that had taken <a href="https://situationalawarenesslp.com/" target="_blank" rel="noopener noreferrer">Situational Awareness</a> less than two years to build.</span></p>
 <p><span style="font-weight: 400;">The seller was not an old hedge fund caught on the wrong side of a trade. Situational Awareness had been founded in 2024 by <a href="https://www.linkedin.com/in/leopold-aschenbrenner/" target="_blank" rel="nofollow noopener noreferrer">Leopold Aschenbrenner</a>, a former <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">OpenAI</a> employee who built the fund around a straightforward thesis: the consequences of artificial intelligence would extend far beyond software. The companies supplying chips, electricity, cooling, networking and computing capacity could become some of the biggest beneficiaries of the AI boom.</span></p>
@@ -34,6 +39,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://fishyfinance.org/media/posts/10/Situational-Awareness-Hero-Banner.png" class="type:primaryImage" alt="Inside the Rise and unwind of Situational Awareness" /></p>
                 <p><i><span style="font-weight: 400;">How a young AI-focused fund built a multibillion-dollar portfolio around the infrastructure boom — and what became visible when the trade had to unwind.</span></i></p>
 <p><span style="font-weight: 400;">In July 2026, Citadel began buying a portfolio that had taken <a href="https://situationalawarenesslp.com/" target="_blank" rel="noopener noreferrer">Situational Awareness</a> less than two years to build.</span></p>
 <p><span style="font-weight: 400;">The seller was not an old hedge fund caught on the wrong side of a trade. Situational Awareness had been founded in 2024 by <a href="https://www.linkedin.com/in/leopold-aschenbrenner/" target="_blank" rel="nofollow noopener noreferrer">Leopold Aschenbrenner</a>, a former <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">OpenAI</a> employee who built the fund around a straightforward thesis: the consequences of artificial intelligence would extend far beyond software. The companies supplying chips, electricity, cooling, networking and computing capacity could become some of the biggest beneficiaries of the AI boom.</span></p>
