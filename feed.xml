@@ -3,7 +3,7 @@
     <title>Fishy Finance</title>
     <link href="https://fishyfinance.org/feed.xml" rel="self" />
     <link href="https://fishyfinance.org" />
-    <updated>2026-09-20T01:23:05+05:30</updated>
+    <updated>2026-09-20T13:14:13+05:30</updated>
     <author>
         <name>Vinit Dave</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://fishyfinance.org/where-did-nfe-5-7-billion-go/"/>
         <id>https://fishyfinance.org/where-did-nfe-5-7-billion-go/</id>
+        <media:content url="https://fishyfinance.org/media/posts/11/NFE-Hero-Banner.png" medium="image" />
             <category term="Money Flow"/>
             <category term="Energy"/>
             <category term="Debt"/>
@@ -25,6 +26,7 @@
         <updated>2026-09-20T01:20:04+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://fishyfinance.org/media/posts/11/NFE-Hero-Banner.png" alt="" />
                     <p><span style="font-weight: 400;">On September 11, 2026, New Fortress Energy completed its restructuring. The headline was easy to understand: roughly </span><strong>$5.7 billion of third-party debt had been extinguished</strong><span style="font-weight: 400;">, leaving the company with about </span><strong>$700 million of corporate debt</strong><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">Then you look at what happened to the claims behind that debt. The first surprise is Brazil: NFE had separated its Brazilian operations into a new entity, </span><strong>BrazilCo</strong><span style="font-weight: 400;">, and at closing </span><strong>100% of BrazilCo's common equity went to the plan creditors</strong><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">So the restructuring wasn't just about reducing what NFE owed. It also changed who owned part of the business, and Brazil was only the beginning.</span></p>
@@ -33,6 +35,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://fishyfinance.org/media/posts/11/NFE-Hero-Banner.png" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">On September 11, 2026, New Fortress Energy completed its restructuring. The headline was easy to understand: roughly </span><strong>$5.7 billion of third-party debt had been extinguished</strong><span style="font-weight: 400;">, leaving the company with about </span><strong>$700 million of corporate debt</strong><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">Then you look at what happened to the claims behind that debt. The first surprise is Brazil: NFE had separated its Brazilian operations into a new entity, </span><strong>BrazilCo</strong><span style="font-weight: 400;">, and at closing </span><strong>100% of BrazilCo's common equity went to the plan creditors</strong><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">So the restructuring wasn't just about reducing what NFE owed. It also changed who owned part of the business, and Brazil was only the beginning.</span></p>
