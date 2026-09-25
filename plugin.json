@@ -1,0 +1,224 @@
+{
+    "name": "Commentix",
+    "description": "Add lightweight Commentix comments to Publii posts and pages.",
+    "license": "GPL-3.0",
+    "author": "TidyCustoms",
+    "version": "1.0.1",
+    "scope": "site",
+    "minimumPubliiVersion": "0.46.0",
+    "usePluginSettingsView": false,
+    "requiredFeatures": ["customComments"],
+    "messageInOptions": {
+        "type": "alert",
+        "text": "To show comments, open Theme settings and enable 'Comments' under Post Options or Page Options. You can also enable comments for one post or page under Other Options."
+    },
+    "config": [
+        {
+            "name": "siteId",
+            "label": "Site ID",
+            "group": "Comments configuration",
+            "note": "Paste the Site ID shown in the Integration section of your Commentix Console. Paste only the ID, for example <strong>ebf94680-ea4a-43f2-a831-933afd61310c</strong>. <a href='https://console.commentix.com' target='_blank' rel='nofollow noopener noreferrer'>Open Commentix Console</a>.",
+            "placeholder": "ebf94680-ea4a-43f2-a831-933afd61310c",
+            "value": "",
+            "type": "text"
+        },
+        {
+            "name": "language",
+            "label": "Comments language",
+            "group": "Comments configuration",
+            "note": "Choose the language of buttons and messages in the comments widget. Use the page language to let Commentix read the language set by your Publii site.",
+            "type": "select",
+            "value": "auto",
+            "options": [
+                { "label": "Use page language", "value": "auto" },
+                { "label": "Czech", "value": "cz" },
+                { "label": "Danish", "value": "da" },
+                { "label": "German", "value": "de" },
+                { "label": "Greek", "value": "el" },
+                { "label": "English", "value": "en" },
+                { "label": "Spanish", "value": "es" },
+                { "label": "Spanish — Latin America", "value": "es-419" },
+                { "label": "Finnish", "value": "fi" },
+                { "label": "French", "value": "fr" },
+                { "label": "Hungarian", "value": "hu" },
+                { "label": "Italian", "value": "it" },
+                { "label": "Dutch", "value": "nl" },
+                { "label": "Norwegian", "value": "no" },
+                { "label": "Polish", "value": "pl" },
+                { "label": "Portuguese", "value": "pt" },
+                { "label": "Portuguese — Brazil", "value": "pt-BR" },
+                { "label": "Romanian", "value": "ro" },
+                { "label": "Russian", "value": "ru" },
+                { "label": "Swedish", "value": "sv" },
+                { "label": "Turkish", "value": "tr" },
+                { "label": "Ukrainian", "value": "uk" }
+            ]
+        },
+        {
+            "name": "sort",
+            "label": "Default comment order",
+            "group": "Comments configuration",
+            "note": "Choose how comments are ordered when the widget first opens.",
+            "type": "select",
+            "value": "best",
+            "options": [
+                { "label": "Best first", "value": "best" },
+                { "label": "Newest first", "value": "latest" },
+                { "label": "Oldest first", "value": "oldest" }
+            ]
+        },
+        {
+            "name": "maxLevels",
+            "label": "Maximum reply depth",
+            "group": "Comments configuration",
+            "note": "Set how many nested reply levels visitors can create. Commentix uses <strong>3</strong> by default.",
+            "type": "number",
+            "value": 3
+        },
+        {
+            "name": "visibleComments",
+            "label": "Initially visible comments",
+            "group": "Comments configuration",
+            "note": "Set how many top-level comments appear before Commentix shows the button for loading the remaining comments.",
+            "type": "number",
+            "value": 5
+        },
+        {
+            "name": "visibleLevels",
+            "label": "Initially expanded reply levels",
+            "group": "Comments configuration",
+            "note": "Set how many reply levels are expanded when the comments section first appears.",
+            "type": "number",
+            "value": 1
+        },
+        {
+            "name": "showCount",
+            "label": "Show comment count",
+            "group": "Comments configuration",
+            "note": "Display the total number of comments in the widget header.",
+            "type": "checkbox",
+            "value": true
+        },
+        {
+            "name": "enableRating",
+            "label": "Enable comment likes",
+            "group": "Comments configuration",
+            "note": "Allow visitors to like comments. Turn this off to hide all rating controls.",
+            "type": "checkbox",
+            "value": true
+        },
+        {
+            "name": "textHeader",
+            "label": "Comments heading",
+            "group": "Appearance",
+            "note": "Text shown above the comments section. Leave this field blank to hide the heading.",
+            "type": "text",
+            "value": "Comments"
+        },
+        {
+            "name": "headingLevel",
+            "label": "Heading level",
+            "group": "Appearance",
+            "note": "Choose the heading level for the comments title. H2 works for most sites.",
+            "type": "radio",
+            "value": "2",
+            "options": [
+                { "label": "H2", "value": "2" },
+                { "label": "H3", "value": "3" },
+                { "label": "H4", "value": "4" },
+                { "label": "H5", "value": "5" },
+                { "label": "H6", "value": "6" }
+            ]
+        },
+        {
+            "name": "brandColor",
+            "label": "Accent color",
+            "group": "Appearance",
+            "note": "Choose the color used for Commentix buttons, links, and other interactive elements.",
+            "type": "colorpicker",
+            "value": "#396bf1"
+        },
+        {
+            "name": "baseSize",
+            "label": "Base interface size",
+            "group": "Appearance",
+            "note": "Set the base size of text, spacing, and controls in pixels. The Commentix default is <strong>16</strong>.",
+            "type": "number",
+            "value": 16
+        },
+        {
+            "name": "textFallback",
+            "label": "JavaScript disabled message",
+            "group": "Messages",
+            "note": "Visitors see this message when JavaScript is turned off in their browser.",
+            "rows": 3,
+            "type": "textarea",
+            "value": "Turn on JavaScript to view and post comments."
+        },
+        {
+            "name": "cssWrapperClass",
+            "label": "Outer container CSS class",
+            "group": "Advanced styling",
+            "note": "Theme developers can use this field to change the outer container class. Keep the default value unless your theme requires another class.",
+            "value": "comments",
+            "type": "text"
+        },
+        {
+            "name": "cssInnerWrapperClass",
+            "label": "Inner container CSS class",
+            "group": "Advanced styling",
+            "note": "Theme developers can use this field to change the inner container class. Keep the default value unless your theme requires another class.",
+            "value": "comments-wrapper",
+            "type": "text"
+        },
+        {
+            "name": "cssHeaderClass",
+            "label": "Heading CSS class",
+            "group": "Advanced styling",
+            "note": "Theme developers can add a CSS class to change the heading style. Leave this field blank unless your theme requires a class.",
+            "placeholder": "small",
+            "value": "",
+            "type": "text"
+        },
+        {
+            "name": "lazyload",
+            "label": "Load comments when visible",
+            "note": "Commentix waits until the visitor scrolls near the comments before downloading its script. This can reduce the page's initial loading time.",
+            "group": "Loading",
+            "type": "checkbox",
+            "value": true
+        },
+        {
+            "name": "cookieBannerIntegration",
+            "label": "Require consent before loading",
+            "note": "Optional. Enable this if your privacy setup requires Commentix to wait until the visitor accepts a selected Cookie Group. Commentix states that its widget does not use tracking cookies. <a href='https://getpublii.com/docs/gdpr-cookie-banner-configuration.html#doesyoursiteuseanyexternalscripts' target='_blank' rel='nofollow noopener noreferrer'>Learn how Publii blocks external scripts until consent</a>.",
+            "group": "Cookie Banner integration",
+            "type": "checkbox",
+            "value": false
+        },
+        {
+            "name": "cookieBannerGroup",
+            "label": "Cookie Group ID",
+            "note": "Enter the Group ID from Site Settings → Privacy Settings → Cookie Groups, for example <strong>comments</strong>. Use the same ID here and in Privacy Settings. <a href='https://getpublii.com/docs/gdpr-cookie-banner-configuration.html#cookie-groups' target='_blank' rel='nofollow noopener noreferrer'>Learn about Cookie Groups</a>.",
+            "group": "Cookie Banner integration",
+            "placeholder": "comments",
+            "type": "text",
+            "value": "comments",
+            "dependencies": [
+                { "field": "cookieBannerIntegration", "value": true }
+            ]
+        },
+        {
+            "name": "cookieBannerNoConsentText",
+            "label": "Message before consent",
+            "note": "Visitors see this message until they accept the selected Cookie Group.",
+            "group": "Cookie Banner integration",
+            "rows": 3,
+            "type": "textarea",
+            "value": "Comments are unavailable until you allow the external comment service. You can change your choice in Cookie settings.",
+            "dependencies": [
+                { "field": "cookieBannerIntegration", "value": true }
+            ]
+        }
+    ]
+}
