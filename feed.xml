@@ -3,7 +3,7 @@
     <title>Fishy Finance</title>
     <link href="https://fishyfinance.org/feed.xml" rel="self" />
     <link href="https://fishyfinance.org" />
-    <updated>2026-11-20T23:57:33+05:30</updated>
+    <updated>2026-11-22T20:31:10+05:30</updated>
     <author>
         <name>Vinit Dave</name>
     </author>
@@ -123,6 +123,7 @@
             <category term="Regulatory Action"/>
             <category term="Litigation"/>
             <category term="Financial Controls"/>
+            <category term="Case Studies"/>
 
         <updated>2026-10-24T10:17:33+05:30</updated>
             <summary type="html">
@@ -262,6 +263,7 @@
             <category term="Regulatory Investigation"/>
             <category term="Money Flow"/>
             <category term="Hedge Fund"/>
+            <category term="Case Studies"/>
 
         <updated>2026-10-04T16:55:44+05:30</updated>
             <summary type="html">
@@ -365,6 +367,7 @@
             <category term="Money Flow"/>
             <category term="Litigation"/>
             <category term="Hedge Fund"/>
+            <category term="Case Studies"/>
             <category term="Auditor"/>
 
         <updated>2026-09-27T16:28:15+05:30</updated>
@@ -494,6 +497,7 @@
             <category term="Energy"/>
             <category term="Debt"/>
             <category term="Corporate Transformation"/>
+            <category term="Case Studies"/>
             <category term="Capital Structure"/>
 
         <updated>2026-09-20T01:20:04+05:30</updated>
@@ -555,6 +559,7 @@
         <media:content url="https://fishyfinance.org/media/posts/10/Situational-Awareness-Hero-Banner.png" medium="image" />
             <category term="US Markets"/>
             <category term="Market Structure"/>
+            <category term="Case Studies"/>
             <category term="Capital Structure"/>
 
         <updated>2026-09-16T23:10:12+05:30</updated>
